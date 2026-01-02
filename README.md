@@ -1,0 +1,2 @@
+# Visual-Analytics-for-Trust-and-Resilience-in-Satellite-Terrestrial-Integrated-Networks-STINs-
+A reproducible visual analytics framework for analyzing trust, integrity, resilience, and performance dynamics in Satellite–Terrestrial Integrated Networks (STINs). It is designed to support human-in-the-loop interpretation of secure STIN operations by transforming cryptographic and trust signals into interpretable visual representations.
